@@ -1,4 +1,4 @@
-# College Web Project
+# College Web 
 
 A web project for Kansha College of Engineering, showcasing various sections including Home, About, Courses, and Contact.
 
